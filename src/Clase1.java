@@ -4,5 +4,7 @@ public class Clase1 {
         System.out.println("Primera linea de texto");
         System.out.println("Tercera linea de texto");
         System.out.println("Cuarta linea de texto");
+
+        ;
     }
 }
